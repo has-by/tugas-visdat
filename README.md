@@ -7,5 +7,5 @@ Anggota
 * Wahyu Nurrosyid - 1301218690
 
 Analisis Saham Telkom
-Link web statis = https://has-by.github.io/tugas-visdat/
-Link Observablehq = https://observablehq.com/@neyhuan-sikoko-ws
+<p> Link web statis = https://has-by.github.io/tugas-visdat/ </p>
+<p> Link Observablehq = https://observablehq.com/@neyhuan-sikoko-ws </p>
