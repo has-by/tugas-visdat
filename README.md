@@ -8,4 +8,4 @@ Anggota
 
 Analisis Saham Telkom
 <p> Link web statis = https://has-by.github.io/tugas-visdat/ </p>
-<p> Link Observablehq = https://observablehq.com/@neyhuan-sikoko-ws </p>
+<p> Link Observablehq = https://observablehq.com/@neyhuan-sikoko-ws/tubes-visdat </p>
